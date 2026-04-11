@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://18057777735ye-hash.github.io/chengshiplumbing/sitemap.xml
