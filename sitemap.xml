@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/</loc>
+    <loc>https://chengshipulumbing.com/</loc>
   </url>
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/services.html</loc>
+    <loc>https://chengshipulumbing.com/index.html</loc>
   </url>
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/contact.html</loc>
+    <loc>https://chengshipulumbing.com/services.html</loc>
   </url>
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/san-francisco.html</loc>
+    <loc>https://chengshipulumbing.com/contact.html</loc>
   </url>
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/san-jose.html</loc>
+    <loc>https://chengshipulumbing.com/hayward.html</loc>
   </url>
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/fremont.html</loc>
+    <loc>https://chengshipulumbing.com/fremont.html</loc>
   </url>
   <url>
-    <loc>https://18057777735ye-hash.github.io/chengshiplumbing/hayward.html</loc>
+    <loc>https://chengshipulumbing.com/san-francisco.html</loc>
+  </url>
+  <url>
+    <loc>https://chengshipulumbing.com/san-jose.html</loc>
   </url>
 </urlset>
